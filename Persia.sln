@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persia.DataLayer", "ClassLibrary1\Persia.DataLayer.csproj", "{ACF3EEC2-57B0-4A2A-92CF-3D41AE873DB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persia.DataLayer", "Persia.DataLayer\Persia.DataLayer.csproj", "{ACF3EEC2-57B0-4A2A-92CF-3D41AE873DB7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persia.Web", "Persia.Web\Persia.Web.csproj", "{DF1B9E96-393E-46B0-8B86-0787A8293B79}"
 EndProject
